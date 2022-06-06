@@ -1,4 +1,9 @@
+<?php
+$servername="localhost";
+$username="root";
+$password="";
+$databasename="chotu";
+$conn = mysqli_connect($servername , $username , $password , $databasename);
 
-https://github.com/singhalvidhya/login/blob/main/index.php
-https://github.com/singhalvidhya/login/blob/main/TARUN.php
-https://github.com/singhalvidhya/login/blob/main/registration.php
+
+?>
